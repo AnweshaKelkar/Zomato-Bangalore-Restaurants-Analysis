@@ -8,8 +8,6 @@ To run the project :
 1. Exploratory Data Anaysis: Run the EDA&Visualization.ipynb file with its dataset url pointing to the location where your dataset is stored.
 2. Model Building and Training: Run the LSTM Model.ipynb file with its dataset url pointing to the location where your dataset is stored.
 
-Link to project presentation : https://drive.google.com/file/d/1Bt_Fb6KOWhB6KTjmhBdw4yqTsER1FW2K/view?usp=sharing
-
 Team Name : Insight Strategists <br />
 
 Team Members :<br />
